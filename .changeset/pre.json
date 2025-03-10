@@ -130,6 +130,7 @@
     "fireworks-r1": "0.0.1"
   },
   "changesets": [
+    "all-garlics-bow",
     "beige-buttons-cheat",
     "brave-hounds-study",
     "brown-banks-attack",
